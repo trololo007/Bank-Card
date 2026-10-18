@@ -43,7 +43,7 @@ fun BankCardScreen() {
     }
 }
 
-@Preview(showBackground = true)
+@Preview()
 @Composable
 fun BankCard() {
     Card(
